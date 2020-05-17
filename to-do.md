@@ -22,15 +22,15 @@ portfolio.html
 contact.html
 <!-- - README file with accurate description of project -->
 - Must contain personalized information
-  <!-- bio
-  name
-  images -->
+    <!-- bio
+    name
+    images -->
   links to social media
   etc.
-- Make a sticky footer for each document
-  index.html
-  portfolio.html
-  contact.html
+  <!-- - Make a sticky footer for each document
+    index.html
+    portfolio.html
+    contact.html -->
 - Use sub-rows and sub-columns for each document
   index.html
   portfolio.html
@@ -47,3 +47,6 @@ contact.html
   etc
 * Fix drop down
 * Make Navbar bold the current page user is on
+* Adjust sticky footer
+  center text
+  change background color of container
