@@ -25,7 +25,7 @@ contact.html
     <!-- bio
     name
     images -->
-  links to social media
+  <!-- links to social media -->
   etc.
   <!-- - Make a sticky footer for each document
     index.html
