@@ -22,9 +22,9 @@ portfolio.html
 contact.html
 <!-- - README file with accurate description of project -->
 - Must contain personalized information
-  bio
+  <!-- bio
   name
-  images
+  images -->
   links to social media
   etc.
 - Make a sticky footer for each document
