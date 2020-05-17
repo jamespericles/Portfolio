@@ -1,5 +1,10 @@
 @import url(bootstrap-responsiveness.css);
 
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;   
+}   
+
 @media (max-width: 768px) {
     .img-responsive{
      width: 300px;
