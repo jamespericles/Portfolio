@@ -33,6 +33,7 @@ contact.html
   index.html
   portfolio.html
   contact.html
+  send help
 
 * use of semantic tags
     <!-- nav -->
