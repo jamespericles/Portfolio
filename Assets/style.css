@@ -1,0 +1,17 @@
+a.disabled,
+a.disabled:visited,
+a.disabled:active,
+a.disabled:hover {
+  color: #999;
+  cursor: default;
+}
+.dropdown-menu {
+  a.disabled,
+  a.disabled:visited,
+  a.disabled:active,
+  a.disabled:hover {
+    color: #999;
+    cursor: default;
+    background-color: white;
+  }
+}
