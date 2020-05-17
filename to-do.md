@@ -35,3 +35,15 @@
   index.html
   portfolio.html
   contact.html
+
+* Make the Navbar social media links open in different tabs
+* Make the link say what they are
+  github link is a hyperlinked text "github"
+* Disable twitter link
+* Add Psuedoclasses
+  :hover
+  :active
+  :clicked
+  etc
+* Fix drop down
+* Make Navbar bold the current page user is on
