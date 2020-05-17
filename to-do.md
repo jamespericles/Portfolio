@@ -4,11 +4,9 @@
     contact.html -->
 
 <!-- - Add bootstrap link in each file header tag -->
-
-    <!-- index.html -->
-
-  <!-- portfolio.html
-  contact.html -->
+<!-- index.html
+portfolio.html
+contact.html -->
 <!-- - Add a consistent navbar to each document
   index.html
   portfolio.html
@@ -36,10 +34,18 @@ contact.html
   portfolio.html
   contact.html
 
+* use of semantic tags
+    <!-- nav -->
+
+  information area
+  content section
+  right sidebar
+    <!-- footer -->
+
 * Make the Navbar social media links open in different tabs
-* Make the link say what they are
-  github link is a hyperlinked text "github"
-* Disable twitter link
+<!-- * Make the link say what they are
+  github link is a hyperlinked text "github" -->
+* Disable twitter link or make a twitter?
 * Add Psuedoclasses
 :hover
 :active
