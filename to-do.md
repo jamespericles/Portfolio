@@ -3,14 +3,17 @@
     portfolio.html
     contact.html -->
 
-- Add bootstrap link in each file header tag
+<!-- - Add bootstrap link in each file header tag -->
+
     <!-- index.html -->
-  portfolio.html
-  contact.html
-- Add a consistent navbar to each document
+
+  <!-- portfolio.html
+  contact.html -->
+<!-- - Add a consistent navbar to each document
   index.html
   portfolio.html
-  contact.html
+  contact.html -->
+
 - Make the layout of each document responsive
 - Make all images used responsive
 - Use an HTML validation service to ensure proper html for each document
