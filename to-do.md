@@ -41,12 +41,14 @@ contact.html
   github link is a hyperlinked text "github"
 * Disable twitter link
 * Add Psuedoclasses
-  :hover
-  :active
-  :clicked
-  etc
-* Fix drop down
+:hover
+:active
+:clicked
+etc
+<!-- * Fix drop down -->
 * Make Navbar bold the current page user is on
 * Adjust sticky footer
   center text
   change background color of container
+* Fix weird flittering effect when clicking between Navbar items
+  Didn't start occuring until adding javascript
