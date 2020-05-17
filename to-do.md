@@ -17,10 +17,10 @@
 - Make the layout of each document responsive
 - Make all images used responsive
 - Use an HTML validation service to ensure proper html for each document
-  index.html
-  portfolio.html
-  contact.html
-- README file with accurate description of project
+index.html
+portfolio.html
+contact.html
+<!-- - README file with accurate description of project -->
 - Must contain personalized information
   bio
   name
