@@ -13,6 +13,9 @@ contact.html -->
   contact.html -->
 
 - Make the layout of each document responsive
+    <!-- index.html -->
+  portfolio.html
+  contact.html
 - Make all images used responsive
 - Use an HTML validation service to ensure proper html for each document
 index.html
@@ -59,3 +62,4 @@ etc
   change background color of container
 * Fix weird flittering effect when clicking between Navbar items
   Didn't start occuring until adding javascript
+* on mobile, without a top margin of 250px, the text wraps to the right of the image, but when adding that margin, it no longer wraps around the image on larger screens
