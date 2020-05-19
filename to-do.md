@@ -61,5 +61,5 @@ etc
   center text
   change background color of container
 * Fix weird flittering effect when clicking between Navbar items
-  Didn't start occuring until adding javascript
-* on mobile, without a top margin of 250px, the text wraps to the right of the image, but when adding that margin, it no longer wraps around the image on larger screens
+Didn't start occuring until adding javascript
+<!-- * on mobile, without a top margin of 250px, the text wraps to the right of the image, but when adding that margin, it no longer wraps around the image on larger screens -->
