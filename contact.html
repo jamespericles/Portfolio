@@ -13,8 +13,8 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container">
-        <a class="navbar-brand" href="#">James Pericles</a>
+      <div class="container d-flex">
+        <a class="navbar-brand flex-grow-1" href="#">James Pericles</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -26,19 +26,25 @@
         >
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
+        <div
+          class="collapse navbar-collapse"
+          id="navbarNavDropdown"
+          style="max-width: 378px;"
+        >
+          <ul class="navbar-nav pl-5">
+            <li class="nav-item">
               <a class="nav-link" href="index.html"
                 >Home <span class="sr-only"></span
               ></a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="portfolio.html"
-                >Portfolio<span class="sr-only"></span
-              ></a>
+                >Portfolio<span class="sr-only" style="font-weight: 400;"
+                  >(current)</span
+                ></a
+              >
             </li>
-            <li class="nav-item">
+            <li class="nav-item active">
               <a class="nav-link" href="contact.html">Contact</a>
             </li>
             <li class="nav-item dropdown">
@@ -57,10 +63,14 @@
                 class="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"
               >
-                <a class="dropdown-item" href="https://github.com/jamespericles"
+                <a
+                  target="_blank"
+                  class="dropdown-item"
+                  href="https://github.com/jamespericles"
                   >github</a
                 >
                 <a
+                  target="_blank"
                   class="dropdown-item"
                   href="https://www.linkedin.com/in/james-pericles-ii-38a859156/"
                   >LinkedIn</a
