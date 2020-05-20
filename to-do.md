@@ -46,20 +46,21 @@ contact.html
   right sidebar
     <!-- footer -->
 
-* Make the Navbar social media links open in different tabs
+<!-- * Make the Navbar social media links open in different tabs -->
 <!-- * Make the link say what they are
   github link is a hyperlinked text "github" -->
-* Disable twitter link or make a twitter?
-* Add Psuedoclasses
+
+- Disable twitter link or make a twitter?
+- Add Psuedoclasses
 :hover
 :active
 :clicked
 etc
 <!-- * Fix drop down -->
-* Make Navbar bold the current page user is on
-* Adjust sticky footer
+- Make Navbar bold the current page user is on
+- Adjust sticky footer
   center text
   change background color of container
-* Fix weird flittering effect when clicking between Navbar items
+- Fix weird flittering effect when clicking between Navbar items
 Didn't start occuring until adding javascript
 <!-- * on mobile, without a top margin of 250px, the text wraps to the right of the image, but when adding that margin, it no longer wraps around the image on larger screens -->
