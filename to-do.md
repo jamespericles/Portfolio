@@ -12,31 +12,31 @@ contact.html -->
   portfolio.html
   contact.html -->
 
-- Make the layout of each document responsive
-    <!-- index.html -->
-  <!-- portfolio.html -->
-  contact.html
+<!-- - Make the layout of each document responsive
+    index.html
+  portfolio.html
+  contact.html -->
+
 - Make all images used responsive
 - Use an HTML validation service to ensure proper html for each document
-index.html
-portfolio.html
-contact.html
-<!-- - README file with accurate description of project -->
-- Must contain personalized information
-    <!-- bio
-    name
-    images -->
-  <!-- links to social media -->
+  index.html
+  portfolio.html
+  contact.html
+  <!-- - README file with accurate description of project -->
+  <!-- - Must contain personalized information
+      bio
+      name
+      images -->
+    <!-- links to social media -->
   etc.
-  <!-- - Make a sticky footer for each document
-    index.html
-    portfolio.html
-    contact.html -->
+    <!-- - Make a sticky footer for each document
+      index.html
+      portfolio.html
+      contact.html -->
 - Use sub-rows and sub-columns for each document
   <!-- index.html -->
   <!-- portfolio.html -->
-  contact.html
-  send help
+  <!-- contact.html -->
 
 * use of semantic tags
     <!-- nav -->
@@ -50,7 +50,8 @@ contact.html
 <!-- * Make the link say what they are
   github link is a hyperlinked text "github" -->
 
-- Disable twitter link or make a twitter?
+<!-- - Disable twitter link or make a twitter? -->
+
 - Add Psuedoclasses
   :hover
   :active
@@ -65,5 +66,5 @@ contact.html
   Didn't start occuring until adding javascript -->
   <!-- * on mobile, without a top margin of 250px, the text wraps to the right of the image, but when adding that margin, it no longer wraps around the image on larger screens -->
 
-* Adjust layout of six placeholder projects
-  Center image and text
+<!-- * Adjust layout of six placeholder projects
+  Center image and text -->
