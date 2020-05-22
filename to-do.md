@@ -17,7 +17,8 @@ contact.html -->
   portfolio.html
   contact.html -->
 
-- Make all images used responsive
+<!-- - Make all images used responsive -->
+
 - Use an HTML validation service to ensure proper html for each document
   index.html
   portfolio.html
@@ -38,13 +39,13 @@ contact.html -->
   <!-- portfolio.html -->
   <!-- contact.html -->
 
-* use of semantic tags
-    <!-- nav -->
+<!-- * use of semantic tags
+    nav
 
   information area
   content section
   right sidebar
-    <!-- footer -->
+    footer
 
 <!-- * Make the Navbar social media links open in different tabs -->
 <!-- * Make the link say what they are
@@ -52,16 +53,10 @@ contact.html -->
 
 <!-- - Disable twitter link or make a twitter? -->
 
-- Add Psuedoclasses
-  :hover
-  :active
-  :clicked
-  etc
   <!-- * Fix drop down -->
   <!-- - Make Navbar bold the current page user is on -->
-- Adjust sticky footer
-  center text
-  change background color of container
+<!-- - Adjust sticky footer
+  center text -->
   <!-- - Fix weird flittering effect when clicking between Navbar items
   Didn't start occuring until adding javascript -->
   <!-- * on mobile, without a top margin of 250px, the text wraps to the right of the image, but when adding that margin, it no longer wraps around the image on larger screens -->
