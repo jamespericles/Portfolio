@@ -19,22 +19,21 @@ contact.html -->
 
 <!-- - Make all images used responsive -->
 
-- Use an HTML validation service to ensure proper html for each document
+<!-- - Use an HTML validation service to ensure proper html for each document
   index.html
   portfolio.html
-  contact.html
+  contact.html -->
   <!-- - README file with accurate description of project -->
   <!-- - Must contain personalized information
       bio
       name
       images -->
-    <!-- links to social media -->
-  etc.
-    <!-- - Make a sticky footer for each document
+<!-- links to social media -->
+ <!-- - Make a sticky footer for each document
       index.html
       portfolio.html
       contact.html -->
-- Use sub-rows and sub-columns for each document
+<!-- - Use sub-rows and sub-columns for each document -->
   <!-- index.html -->
   <!-- portfolio.html -->
   <!-- contact.html -->
