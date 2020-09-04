@@ -3,7 +3,9 @@
 ## Table of Contents
 ---
 ### [Description](#Description)
+
 ### [Deployed Projects](#DeployedProjects)
+
 ### [Contact](#Contact)
 ---
 ### <a name="Description"></a>Description
